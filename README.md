@@ -13,7 +13,7 @@ mongodump restore
 ============
 
     mongorestore --db booking dump/
-    npm start
+    
 
 
     
