@@ -1,14 +1,19 @@
 # Taxi Booking Module
 
 
+Installation
+============
+
+    npm install
+    npm start
 
 
-npm i
 
-npm start
+* Swagger UI:
+
+http://localhost:8081/api/
 
 
+* POSTMAN collection link:
 
-Swagger link:http://localhost:8081/api/
-
-POSTMAN collection link: https://www.getpostman.com/collections/287401acadd7c8c3780f
+ https://www.getpostman.com/collections/287401acadd7c8c3780f
