@@ -8,10 +8,16 @@ Installation
     npm start
 
 
-mongoDB collection restore from dump with database name booking
+
+mongodump restore
 ============
-    
+
     mongorestore --db booking dump/
+    npm start
+
+
+    
+    
 
 
 * Swagger UI:
